@@ -1,6 +1,9 @@
 # Project Name
 
-> Project description
+> Dockerized Front End React Application to display Real Estate Listings from a MongoDB in a slidable carousel.__
+> ![alt text](https://github.com/AnimalFace/SimilarHomesCarousel/blob/master/sample1.png?raw=true)
+> ![alt text](https://github.com/AnimalFace/SimilarHomesCarousel/blob/master/sample2.png?raw=true)
+> ![alt text](https://github.com/AnimalFace/SimilarHomesCarousel/blob/master/sample3.png?raw=true)
 
 ## Related Projects
 
@@ -12,8 +15,8 @@
 ## Table of Contents
 
 1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+2. [Requirements](#requirements)
+3. [Development](#development)
 
 ## Usage
 
